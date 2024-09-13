@@ -1,4 +1,4 @@
-package io.agileintelligence.ppmtool.services;
+package io.agileintelligence.ppmtool.service;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

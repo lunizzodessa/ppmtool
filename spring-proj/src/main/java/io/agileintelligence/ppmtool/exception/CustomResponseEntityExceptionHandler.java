@@ -1,4 +1,4 @@
-package io.agileintelligence.ppmtool.exceptions;
+package io.agileintelligence.ppmtool.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
